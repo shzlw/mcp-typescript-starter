@@ -1,0 +1,1 @@
+# mcp-typescript-starter
